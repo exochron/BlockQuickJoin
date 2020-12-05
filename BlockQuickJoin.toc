@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: Block Quick Join
+## Notes: Disables the party quick join notification.
+## Author: eXochron
+## Version: @project-version@
+## X-Curse-Project-ID: 425903
+
+block.lua
