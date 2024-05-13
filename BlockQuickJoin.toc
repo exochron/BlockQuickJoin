@@ -1,4 +1,4 @@
-## Interface: 100205
+## Interface: 100207
 ## Title: Block Quick Join
 ## Notes: Disables the party quick join notification.
 ## Author: eXochron
